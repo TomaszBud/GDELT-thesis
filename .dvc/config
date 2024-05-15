@@ -1,0 +1,8 @@
+[core]
+    remote = dvc_for_github
+
+[remote "dvc_for_github"]
+    url = s3://muad-dib-bucket
+    ssl_verify = false
+    sse = AES256
+    acl = bucket-owner-full-control
