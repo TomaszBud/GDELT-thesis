@@ -1,0 +1,4 @@
+outs:
+- md5: 03104b4a6a551be8b6dc2c7baa49dd49
+  size: 59818929
+  path: GDELT_THA_woNA.csv
