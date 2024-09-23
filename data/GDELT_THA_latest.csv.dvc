@@ -1,0 +1,4 @@
+outs:
+- md5: 67c8926b1b7f451e100acaa3b31aa5d8
+  size: 83379883
+  path: GDELT_THA_latest.csv
